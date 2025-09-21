@@ -1,0 +1,48 @@
+Projeto de Podcast – Do Jaleco ao Byte
+
+Este projeto é uma iniciativa de criação de podcast, desenvolvido em parceria com a DIO, com o objetivo de explorar conteúdos de tecnologia, carreira e inovação. O projeto envolve todo o ciclo de produção de um episódio, desde o planejamento até a edição final do áudio, utilizando ferramentas digitais modernas para otimizar o processo criativo e técnico.
+
+Tecnologias Utilizadas
+
+Notion: Para organização de todo o processo criativo, planejamento de episódios e controle de tarefas.
+
+ChatGPT: Para criação do roteiro do podcast, incluindo introdução, perguntas, respostas e fechamento do episódio.
+
+ElevenLabs: Para geração de áudio do podcast, utilizando IA de síntese de voz.
+
+CapCut: Para edição e tratamento do áudio final, garantindo qualidade sonora e coesão no episódio.
+
+Passo a Passo do Projeto:
+
+Planejamento do Episódio
+Definição do tema central do episódio.
+Criação de pautas e tópicos no Notion para organizar o conteúdo de forma estruturada.
+Determinação do público-alvo e tom do podcast.
+
+Criação do Roteiro
+
+Utilização do ChatGPT para gerar o roteiro completo, incluindo introdução, desenvolvimento e conclusão.
+Revisão e ajustes manuais para garantir naturalidade e coerência.
+Inserção de sugestões de perguntas, respostas e momentos de interação.
+
+Geração do Áudio
+
+Utilização do ElevenLabs para transformar o roteiro em áudio, escolhendo vozes apropriadas para cada personagem ou segmento.
+Ajuste de entonação e ritmo para manter a fluidez do episódio.
+
+Edição e Finalização
+
+Importação do áudio no CapCut para tratamento sonoro.
+Edição de pausas, cortes e ajustes de volume para melhorar a experiência do ouvinte.
+Exportação do episódio finalizado em formato adequado para publicação.
+
+Organização e Armazenamento
+
+Organização de arquivos e episódios finalizados em pastas específicas no GitHub, garantindo rastreabilidade e fácil acesso.
+Documentação do processo e das ferramentas utilizadas para referência futura e replicabilidade do projeto.
+
+Resultado
+
+O projeto possibilitou a criação de episódios de podcast com qualidade profissional, utilizando inteligência artificial e ferramentas de edição modernas, integrando planejamento, produção e publicação em um fluxo ágil e eficiente.
+
+O projeto possibilitou a criação de episódios de podcast com qualidade profissional, utilizando inteligência artificial e ferramentas de edição modernas, integrando planejamento, produção e publicação em um fluxo ágil e eficiente.
