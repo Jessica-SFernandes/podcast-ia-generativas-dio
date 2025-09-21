@@ -1,0 +1,39 @@
+# 🎙️ Bug na Rotina: Do Jaleco ao Byte
+
+Projeto de podcast desenvolvido com a **DIO**, voltado para quem deseja migrar da área da saúde para a tecnologia. O podcast foi pensado para iniciantes, trazendo curiosidades, dicas de carreiras e ferramentas essenciais no mundo tech.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- 📝 **Notion** – Organização de todo o processo criativo e planejamento de roteiros  
+- 🤖 **ChatGPT** – Criação do roteiro do podcast  
+- 🎧 **ElevenLabs** – Geração do áudio do podcast  
+- ✂️ **CapCut** – Tratamento e edição do áudio  
+
+---
+
+## ⚙️ Como foi feito
+
+1. **Planejamento e organização**  
+   - Todas as ideias, pautas e roteiros foram organizados no **Notion**.  
+
+2. **Roteiro do Podcast**  
+   - Utilizando o **ChatGPT**, criei roteiros curtos, dinâmicos e fáceis de entender, focados no público iniciante.  
+
+3. **Geração de Áudio**  
+   - O áudio foi gerado com **ElevenLabs**, utilizando inteligência artificial para uma locução natural.  
+
+4. **Edição e tratamento**  
+   - O áudio final foi tratado no **CapCut**, ajustando volumes, removendo ruídos e adicionando efeitos de forma prática.  
+
+---
+
+## 🔗 Meus perfis
+
+- [GitHub](https://github.com/Jessica-SFernandes)  
+- [LinkedIn](https://www.linkedin.com/in/jessicaf-ernandes/)  
+
+---
+
+✨ Projeto desenvolvido com muito cuidado para transformar conhecimento da saúde em bytes e oportunidades na tecnologia!
