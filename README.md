@@ -29,10 +29,8 @@ Projeto de podcast desenvolvido com a **DIO**, voltado para quem deseja migrar d
 
 ---
 
-## 🔗 Meus perfis
-
-- [GitHub](https://github.com/Jessica-SFernandes)  
-- [LinkedIn](https://www.linkedin.com/in/jessicaf-ernandes/)  
+📀 Ouça o episódio:  
+[BugnaRotina - Do Jaleco ao Byte - Podcast](https://github.com/Jessica-SFernandes/podcast-ia-generativas-dio/blob/main/BugnaRotina-DoJalecoaoByte-Podcast.mp4)
 
 ---
 
@@ -53,3 +51,10 @@ Clique na capa para acessar o projeto no GitHub.
 ---
 
 ✨ Projeto desenvolvido com muito cuidado para transformar conhecimento da saúde em bytes e oportunidades na tecnologia!
+
+---
+
+## 🔗 Meus perfis
+
+- [GitHub](https://github.com/Jessica-SFernandes)  
+- [LinkedIn](https://www.linkedin.com/in/jessicaf-ernandes/)  
