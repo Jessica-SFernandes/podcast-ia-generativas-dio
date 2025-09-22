@@ -38,16 +38,12 @@ Projeto de podcast desenvolvido com a **DIO**, voltado para quem deseja migrar d
 
 # 🎙️ Podcast IA Generativas DIO
 
-## Episódio 1: Minha Jornada no Bootcamp ChatGPT
-
 Capa do podcast criada com **ChatGPT**:  
 [![Capa do Podcast ChatGPT](https://github.com/Jessica-SFernandes/podcast-ia-generativas-dio/blob/main/CAPA-CHATGPT.png?raw=true)](https://github.com/Jessica-SFernandes/podcast-ia-generativas-dio)
 
 Clique na capa para acessar o projeto no GitHub.
 
 ---
-
-## Episódio 2: Explorando o Mundo das IAs Generativas
 
 Capa do podcast criada com **Leonardia**:  
 [![Capa do Podcast Leonardia](https://github.com/Jessica-SFernandes/podcast-ia-generativas-dio/blob/main/CAPA-LEONARDIA.jpg?raw=true)](https://github.com/Jessica-SFernandes/podcast-ia-generativas-dio)
