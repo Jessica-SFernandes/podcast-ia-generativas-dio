@@ -54,7 +54,7 @@ Capa do podcast criada com **Leonardia**:
 
 ---
 
-✨ Projeto desenvolvido com muito cuidado para transformar conhecimento da saúde em bytes e oportunidades na tecnologia!
+✨ Projeto desenvolvido com muito cuidado para transformar conhecimento e oportunidades na tecnologia!
 
 ---
 
