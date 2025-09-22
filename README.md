@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Jessica-SFernandes/podcast-ia-generativas-dio/blob/main/capa.png" alt="Capa do Podcast" width="350"/>
+</p>
+
+
+
+
 # 🎙️ Bug na Rotina: Do Jaleco ao Byte
 
 Projeto de podcast desenvolvido com a **DIO**, voltado para quem deseja migrar da área da saúde para a tecnologia. O podcast foi pensado para iniciantes, trazendo curiosidades, dicas de carreiras e ferramentas essenciais no mundo tech.  
